@@ -151,7 +151,7 @@
 ## 4.5 Evaluation
 ## 4.6 Project
 
-## Week 5
+## Week 5-7
 ### ML Project 1: Sentiment Analysis
 ### ML Project 2: Churn Prediction
 ### ML Project 3: Customer Segmentation
