@@ -16,8 +16,8 @@
 * Dicts (10 min)
 * Tuples (10 min)
 * Sets (10 min)
-* Functions and Classes (10 min)
-#### 1.1.5 See also (HW)
+#### 1.1.5 Functions and Classes (10 min)
+#### 1.1.6 See also (HW)
 * Iterables and Iterators
 * Global and local variables
 * Intro to OOP in Python
