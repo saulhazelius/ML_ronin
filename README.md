@@ -27,10 +27,10 @@
 * Create a Class with instance attributes
 ### 1.3 Session2
 #### 1.3.1 Introduction (10 min)
-#### 1.3.2 Lambda functions
+#### 1.3.2 Read and Write Files (10 min)
+#### 1.3.3 Lambda functions
 * Overview (5 min)
 * Map, Filter, Reduce (15 min)
-#### 1.3.3 Read and Write files (10 min) 
 #### 1.3.4 NumPy
 * Arrays (20 min)
 * Data Types (10 min)
@@ -49,17 +49,16 @@
 ### 2. Data Wrangling 
 ### 2.1 Session 1
 #### 2.1.1 Introduction (10 min) 
-#### 2.1.2 Reading Files (10 min)   
-#### 2.1.3 Web Scraping
+#### 2.1.2 Web Scraping
 * Parsing HTML (10 min)
 * Selenium and Requests Examples (15 min)
-#### 2.1.4 Pandas Basics
+#### 2.1.3 Pandas Basics
 * DataFrames (10 min)
 * Series (5 min)
 * Columns (5 min)
 * DF operations (15 min)
 * Concatenate and Merge (10 min)
-#### 2.1.5 See also (HW)
+#### 2.1.4 See also (HW)
 * Read files to DFs
 ### 2.2 Exercises 1
 * Create a DF from a scraped URL
