@@ -40,6 +40,7 @@
 * Python connection to SQL database
 ### 1.4 Exercises 2
 * Convert functions to lambda functions
+* Read a file and create a list of lines length
 * Evaluate NumPy array operations
 ### 1.5 Evaluation
 ### 1.6 Project
@@ -152,6 +153,6 @@
 ## 4.6 Project
 
 ## Week 5-7
-### ML Project 1: Sentiment Analysis
+### ML Project 1: Fraud Detection
 ### ML Project 2: Churn Prediction
 ### ML Project 3: Customer Segmentation
