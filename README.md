@@ -6,16 +6,16 @@
 ### 1. Python Introduction
 ### 1.1 Session 1
 #### 1.1.1 Introduction (10 min)
-#### 1.1.2 Google Colab & Jupyter Notebook Setup (10 min)
-#### 1.1.3 Data Types (15 min)
+#### 1.1.2 Data Types (15 min)
  * Numbers (5 min)
  * Booleans (5 min)
  * Strings (5 min)
-#### 1.1.4 Collections
+#### 1.1.3 Collections
 * Lists (15 min)
 * Dicts (10 min)
 * Tuples (10 min)
 * Sets (10 min)
+#### 1.1.4 Conditional Statements (10 min)
 #### 1.1.5 Functions and Classes (10 min)
 #### 1.1.6 See also (HW)
 * Iterables and Iterators
