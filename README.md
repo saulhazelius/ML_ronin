@@ -27,7 +27,7 @@
 * Create a Class with instance attributes
 ### 1.3 Session2
 #### 1.3.1 Introduction (10 min)
-#### 1.3.2 Read and Write Files (10 min)
+#### 1.3.2 Read Files (10 min)
 #### 1.3.3 Lambda functions
 * Overview (5 min)
 * Map, Filter, Reduce (15 min)
@@ -39,8 +39,8 @@
 * Numpy broadcasting
 * Python connection to SQL database
 ### 1.4 Exercises 2
-* Convert functions to lambda functions
 * Read a file and create a list of lines length
+* Convert functions to lambda functions
 * Evaluate NumPy array operations
 ### 1.5 Evaluation
 ### 1.6 Project
