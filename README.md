@@ -29,13 +29,14 @@
 #### 1.3.1 Introduction (10 min)
 #### 1.3.2 Read Files (10 min)
 #### 1.3.3 Lambda functions
-* Overview (5 min)
-* Map, Filter, Reduce (15 min)
+* Overview (10 min)
+* Map function (10 min)
 #### 1.3.4 NumPy
 * Arrays (20 min)
 * Data Types (10 min)
 * Mathematical Operations (20 min)
 #### 1.3.5 See also (HW)
+* Filter function
 * Numpy broadcasting
 * Python connection to SQL database
 ### 1.4 Exercises 2
