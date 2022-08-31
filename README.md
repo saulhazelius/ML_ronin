@@ -6,18 +6,18 @@
 ### 1. Python Introduction
 ### 1.1 Session 1
 #### 1.1.1 Introduction (10 min)
-#### 1.1.2 Google Colab & Jupyter Notebook Setup (10 min)
-#### 1.1.3 Data Types (15 min)
+#### 1.1.2 Data Types (15 min)
  * Numbers (5 min)
  * Booleans (5 min)
  * Strings (5 min)
-#### 1.1.4 Collections
+#### 1.1.3 Collections
 * Lists (15 min)
 * Dicts (10 min)
 * Tuples (10 min)
 * Sets (10 min)
-* Functions and Classes (10 min)
-#### 1.1.5 See also (HW)
+#### 1.1.4 Conditional Statements (10 min)
+#### 1.1.5 Functions and Classes (10 min)
+#### 1.1.6 See also (HW)
 * Iterables and Iterators
 * Global and local variables
 * Intro to OOP in Python
@@ -27,18 +27,20 @@
 * Create a Class with instance attributes
 ### 1.3 Session2
 #### 1.3.1 Introduction (10 min)
-#### 1.3.2 Lambda functions
-* Overview (5 min)
-* Map, Filter, Reduce (15 min)
-#### 1.3.3 Read and Write files (10 min) 
+#### 1.3.2 Read Files (10 min)
+#### 1.3.3 Lambda functions
+* Overview (10 min)
+* Map function (10 min)
 #### 1.3.4 NumPy
 * Arrays (20 min)
 * Data Types (10 min)
 * Mathematical Operations (20 min)
 #### 1.3.5 See also (HW)
+* Filter function
 * Numpy broadcasting
 * Python connection to SQL database
 ### 1.4 Exercises 2
+* Read a file and create a list of lines length
 * Convert functions to lambda functions
 * Evaluate NumPy array operations
 ### 1.5 Evaluation
@@ -48,17 +50,16 @@
 ### 2. Data Wrangling 
 ### 2.1 Session 1
 #### 2.1.1 Introduction (10 min) 
-#### 2.1.2 Reading Files (10 min)   
-#### 2.1.3 Web Scraping
+#### 2.1.2 Web Scraping
 * Parsing HTML (10 min)
 * Selenium and Requests Examples (15 min)
-#### 2.1.4 Pandas Basics
+#### 2.1.3 Pandas Basics
 * DataFrames (10 min)
 * Series (5 min)
 * Columns (5 min)
 * DF operations (15 min)
 * Concatenate and Merge (10 min)
-#### 2.1.5 See also (HW)
+#### 2.1.4 See also (HW)
 * Read files to DFs
 ### 2.2 Exercises 1
 * Create a DF from a scraped URL
@@ -152,6 +153,6 @@
 ## 4.6 Project
 
 ## Week 5-7
-### ML Project 1: Sentiment Analysis
+### ML Project 1: Fraud Detection
 ### ML Project 2: Churn Prediction
 ### ML Project 3: Customer Segmentation
