@@ -1,0 +1,4 @@
+Markdown is a great tool for documentation on Github
+because documentation is only as useful as it is readable.
+Among other things, Github's flavor of markdown allows for the creation
+of tables to display data in rows and columns.
