@@ -62,6 +62,7 @@
 #### 2.1.4 See also (HW)
 * Web Scraping with Selenium
 * Read files to DFs
+* Reshape and pivoting 
 ### 2.2 Exercises 1
 * Create a DF from a scraped URL
 ### 2.3 Session 2
