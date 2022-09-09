@@ -52,15 +52,16 @@
 #### 2.1.1 Introduction (10 min) 
 #### 2.1.2 Web Scraping
 * Parsing HTML (10 min)
-* Selenium and Requests Examples (15 min)
+* Requests Examples (15 min)
 #### 2.1.3 Pandas Basics
-* DataFrames (10 min)
-* Series (5 min)
+* DataFrames (15 min)
+* Series (15 min)
 * Columns (5 min)
-* DF operations (15 min)
 * Concatenate and Merge (10 min)
 #### 2.1.4 See also (HW)
+* Web Scraping with Selenium
 * Read files to DFs
+* Reshape and pivoting 
 ### 2.2 Exercises 1
 * Create a DF from a scraped URL
 ### 2.3 Session 2
