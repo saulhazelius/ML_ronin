@@ -72,12 +72,12 @@
 * Homogeneity (5 min)
 * Duplicates(5 min) 
 ### 2.3.3 Encoding
-* Categorical Encoding (5 min) 
-* One-Hot Encoding (5 min)
-* Text Representation (10 min)
+* Categorical Encoding (10 min) 
+* One-Hot Encoding (10 min)
+* Text Representation (20 min)
 * Feature Scaling (20 min)
-* Transformation Pipelines (20 min)
 #### 2.3.4 See also (HW)
+* sklearn transformation pipelines
 * Feature Engineering
 ### 2.4 Exercises 2
 * Clean a data source
