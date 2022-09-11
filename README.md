@@ -92,7 +92,7 @@
 * Descriptive Stats (10 min)
 * Outliers (10 min) 
 * Correlation Bi/Multivariate (20)
-* Feature Selection (10 min) 
+* Mutual Information (10 min) 
 * PCA (20)
 * t-SNE (10)
 #### 3.1.3 See also (HW)
