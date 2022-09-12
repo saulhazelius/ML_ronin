@@ -89,13 +89,13 @@
 ### 3.1 Session 1
 #### 3.1.1 Introduction (10 min)
 #### 3.1.2 Exploring the data
-* Descriptive Stats (10 min)
-* Outliers (10 min) 
+* Descriptive Stats (15 min)
+* Outliers (15 min) 
 * Correlation Bi/Multivariate (20)
 * Mutual Information (10 min) 
 * PCA (20)
-* t-SNE (10)
 #### 3.1.3 See also (HW)
+* t-SNE
 * UMAP
 ### Exercises 1
 * Perform an EDA on a dataset
