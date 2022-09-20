@@ -88,32 +88,33 @@
 ### 3. EDA
 ### 3.1 Session 1
 #### 3.1.1 Introduction (10 min)
-#### 3.1.2 Exploring the data
-* Descriptive Stats (15 min)
-* Outliers (15 min) 
-* Correlation Bi/Multivariate (20)
-* Mutual Information (10 min) 
-* PCA (20)
-#### 3.1.3 See also (HW)
-* t-SNE
-* UMAP
-### Exercises 1
-* Perform an EDA on a dataset
-### 3.3 Session 2
-#### 3.2.1 Introduction (10 min)
-#### 3.2.2 Visualization
+#### 3.1.2 Visualization
 * Matplotlib (20 min) 
 * Seaborn (20 min)
-* Plotly (20 min)
 * Bokeh (20 min) 
-#### 3.2.3 See also (HW)
+#### 3.1.3 Exploring the data
+* Descriptive Stats (10 min)
+* Categorical Data (10 min)
+#### 3.1.4 See also (HW)
+* Plotly
 * Tableau
 * Power BI
-### 3.4 Exercises 2
+### 3.2 Exercises 1
 * Plotting exercise
-### 3.5 Evaluation
-### 3.6 Project
-
+### 3.3 Session 2
+#### 3.3.1 Introduction (10 min)
+#### 3.3.2 Exploring the data II
+* Continuous data (10 min) 
+* Correlation Bi/Multivariate (30 min)
+* Mutual Information (20 min) 
+* PCA (20)
+#### 3.3.3 See also (HW)
+* t-SNE
+* UMAP
+### 3.4 Exercises 2
+* Perform an EDA on a dataset
+## 3.5 Evaluation
+## 3.6 Project
 ## Week 4
 ### 4. Machine Learning
 ### 4.1 Session 1
