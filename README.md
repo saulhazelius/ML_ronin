@@ -1,5 +1,5 @@
 
-# This repo contains the code and resources for the 7 weeks course of ML for Ronins.
+# [WIP] This repo contains the code and resources for the 7 weeks course of ML for Ronins.
 ## It consists of 4 weeks of theory and practice and 3 weeks of hands-on projects. This course covers different subjects like Python for Data Science (NumPy, Pandas), Data Preparation, Preprocessing, Data Analysis, Visualization Tools. In addition, the ML algorithms are focused mainly in supervised methods that are commonly employed in practice. Unsupervised learning and cluster analysis methods are also covered.
 
 ## Week 1
