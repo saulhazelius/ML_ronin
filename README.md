@@ -125,9 +125,10 @@
 * Neural Networks (10 min)
 * Random Forest (10 min)
 * Boosting (10 min)
-#### 4.1.2  Model Evaluation
-* Performance Metrics (15 min)
-* Cross-Validation (15 min)
+#### 4.1.2  Model Selection and Evaluation
+* Hyperparameters Search (10 min)
+* Performance Metrics (10 min)
+* Cross-Validation (10 min)
 #### 4.1.3 See also (HW)
 * Naive Bayes
 * Support Vector Machines
