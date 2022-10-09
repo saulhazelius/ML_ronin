@@ -139,16 +139,17 @@
 ### 4.3 Session 2
 #### 4.3.1 Introduction (10 min)
 #### 4.3.2 Unsupervised Learning
-* K-means (15 min)
+* K-means (10 min)
 * Spectral Clustering (10 min)
 * Gaussian Mixtures (10 min)
-* Hierarchical Clustering (15 min)
+* Hierarchical Clustering (10 min)
+* DBSCAN (10 min)
 #### 4.3.3 Association Rules
 * Introduction (10 min) 
 * Market Basket Analysis (10 min) 
 #### 4.3.4 Non-negative Matrix Factorization (10 min)
 #### 4.3.5 See also (HW) 
-* DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+* HDBSCAN 
 * SOM (Self-Organizing-Maps)
 ### 4.4 Exercises 2
 * Perform a cluster analysis using at least two different methods
