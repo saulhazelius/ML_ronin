@@ -5,18 +5,18 @@
 ## Week 1
 ### 1. Python Introduction
 ### 1.1 Session 1
-#### 1.1.1 Introduction (10 min)
-#### 1.1.2 Data Types (15 min)
- * Numbers (5 min)
- * Booleans (5 min)
- * Strings (5 min)
+#### 1.1.1 Introduction 
+#### 1.1.2 Data Types 
+ * Numbers 
+ * Booleans
+ * Strings 
 #### 1.1.3 Collections
-* Lists (15 min)
-* Dicts (10 min)
-* Tuples (10 min)
-* Sets (10 min)
-#### 1.1.4 Conditional Statements (10 min)
-#### 1.1.5 Functions and Classes (10 min)
+* Lists 
+* Dicts 
+* Tuples 
+* Sets 
+#### 1.1.4 Conditional Statements 
+#### 1.1.5 Functions and Classes 
 #### 1.1.6 See also (HW)
 * Iterables and Iterators
 * Global and local variables
@@ -26,15 +26,15 @@
 * Loop over an iterable 
 * Create a Class with instance attributes
 ### 1.3 Session2
-#### 1.3.1 Introduction (10 min)
-#### 1.3.2 Read Files (10 min)
+#### 1.3.1 Introduction
+#### 1.3.2 Read Files 
 #### 1.3.3 Lambda functions
-* Overview (10 min)
-* Map function (10 min)
+* Overview 
+* Map function 
 #### 1.3.4 NumPy
-* Arrays (20 min)
-* Data Types (10 min)
-* Mathematical Operations (20 min)
+* Arrays 
+* Data Types
+* Mathematical Operations 
 #### 1.3.5 See also (HW)
 * Filter function
 * Numpy broadcasting
@@ -49,15 +49,15 @@
 ## Week 2
 ### 2. Data Wrangling 
 ### 2.1 Session 1
-#### 2.1.1 Introduction (10 min) 
+#### 2.1.1 Introduction
 #### 2.1.2 Web Scraping
-* Parsing HTML (10 min)
-* Requests Examples (15 min)
+* Parsing HTML 
+* Requests Examples
 #### 2.1.3 Pandas Basics
-* DataFrames (15 min)
-* Series (15 min)
-* Columns (5 min)
-* Concatenate and Merge (10 min)
+* DataFrames 
+* Series 
+* Columns 
+* Concatenate and Merge 
 #### 2.1.4 See also (HW)
 * Web Scraping with Selenium
 * Read files to DFs
@@ -65,17 +65,17 @@
 ### 2.2 Exercises 1
 * Create a DF from a scraped URL
 ### 2.3 Session 2
-#### 2.3.1 Introduction (10 min)
+#### 2.3.1 Introduction 
 #### 2.3.2 Data Preparation
-* Missing (5 min)
-* Dtypes (5 min)
-* Homogeneity (5 min)
-* Duplicates(5 min) 
+* Missing 
+* Dtypes 
+* Homogeneity 
+* Duplicates 
 ### 2.3.3 Encoding
-* Categorical Encoding (10 min) 
-* One-Hot Encoding (10 min)
-* Text Representation (20 min)
-* Feature Scaling (20 min)
+* Categorical Encoding  
+* One-Hot Encoding 
+* Text Representation 
+* Feature Scaling 
 #### 2.3.4 See also (HW)
 * sklearn transformation pipelines
 * Feature Engineering
@@ -87,14 +87,14 @@
 ## Week 3
 ### 3. EDA
 ### 3.1 Session 1
-#### 3.1.1 Introduction (10 min)
+#### 3.1.1 Introduction 
 #### 3.1.2 Visualization
-* Matplotlib (20 min) 
-* Seaborn (20 min)
-* Bokeh (20 min) 
+* Matplotlib 
+* Seaborn 
+* Bokeh  
 #### 3.1.3 Exploring the data
-* Descriptive Stats (10 min)
-* Categorical Data (10 min)
+* Descriptive Stats 
+* Categorical Data 
 #### 3.1.4 See also (HW)
 * Plotly
 * Tableau
@@ -102,12 +102,12 @@
 ### 3.2 Exercises 1
 * Plotting exercise
 ### 3.3 Session 2
-#### 3.3.1 Introduction (10 min)
+#### 3.3.1 Introduction 
 #### 3.3.2 Exploring the data II
-* Continuous data (10 min) 
-* Correlation Bi/Multivariate (30 min)
-* Mutual Information (20 min) 
-* PCA (20)
+* Continuous data 
+* Correlation Bi/Multivariate 
+* Mutual Information  
+* PCA 
 #### 3.3.3 See also (HW)
 * t-SNE
 * UMAP
@@ -118,17 +118,17 @@
 ## Week 4
 ### 4. Machine Learning
 ### 4.1 Session 1
-#### 4.1.1 Introduction (10 min)
+#### 4.1.1 Introduction 
 #### 4.1.2 Supervised Learning
-* Linear Regression (10 min)
-* Logistic Regression (10 min)
-* Neural Networks (10 min)
-* Random Forest (10 min)
-* Boosting (10 min)
+* Linear Regression 
+* Logistic Regression
+* Neural Networks
+* Random Forest 
+* Boosting 
 #### 4.1.2  Model Selection and Evaluation
-* Hyperparameters Search (10 min)
-* Performance Metrics (10 min)
-* Cross-Validation (10 min)
+* Hyperparameters Search 
+* Performance Metrics 
+* Cross-Validation 
 #### 4.1.3 See also (HW)
 * Naive Bayes
 * Support Vector Machines
@@ -137,18 +137,19 @@
 * Train a classification model
 * Train a regression model
 ### 4.3 Session 2
-#### 4.3.1 Introduction (10 min)
+#### 4.3.1 Introduction 
 #### 4.3.2 Unsupervised Learning
-* K-means (10 min)
-* Spectral Clustering (10 min)
-* Gaussian Mixtures (10 min)
-* Hierarchical Clustering (10 min)
-* DBSCAN (10 min)
+* K-means
+* Spectral Clustering
+* Gaussian Mixtures 
+* Hierarchical Clustering 
+* DBSCAN 
 #### 4.3.3 Association Rules
-* Introduction (10 min) 
-* Market Basket Analysis (10 min) 
-#### 4.3.4 Non-negative Matrix Factorization (10 min)
-#### 4.3.5 See also (HW) 
+* Introduction
+* Market Basket Analysis
+#### 4.3.4 Non-negative Matrix Factorization 
+#### 4.3.5 Latent Dirichlet Allocation
+#### 4.3.6 See also (HW) 
 * HDBSCAN 
 * SOM (Self-Organizing-Maps)
 ### 4.4 Exercises 2
