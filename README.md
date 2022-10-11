@@ -142,14 +142,16 @@
 * K-means
 * Spectral Clustering
 * Gaussian Mixtures 
-* Hierarchical Clustering 
 * DBSCAN 
+* Model Evaluation  
 #### 4.3.3 Association Rules
 * Introduction
 * Market Basket Analysis
 #### 4.3.4 Non-negative Matrix Factorization 
 #### 4.3.5 Latent Dirichlet Allocation
 #### 4.3.6 See also (HW) 
+* Agglomerative Clustering
+* BIRCH
 * HDBSCAN 
 * SOM (Self-Organizing-Maps)
 ### 4.4 Exercises 2
