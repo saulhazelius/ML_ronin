@@ -1,6 +1,6 @@
 
-# [WIP] This repo contains the code and resources for the 7 weeks course of ML for Ronins.
-## It consists of 4 weeks of theory and practice and 3 weeks of hands-on projects. This course covers different subjects like Python for Data Science (NumPy, Pandas), Data Preparation, Preprocessing, Data Analysis, Visualization Tools. In addition, the ML algorithms are focused mainly in supervised methods that are commonly employed in practice. Unsupervised learning and cluster analysis methods are also covered.
+# [WIP] This repo contains the code and resources for the 8 weeks course of ML for Ronins.
+## It consists of 4 weeks of theory and practice and 4 weeks of hands-on projects. This course covers different subjects like Python for Data Science (NumPy, Pandas), Data Preparation, Preprocessing, Data Analysis, Visualization Tools. In addition, the ML algorithms are focused mainly in supervised methods that are commonly employed in practice. Unsupervised learning and cluster analysis methods are also covered.
 
 ## Week 1
 ### 1. Python Introduction
@@ -159,7 +159,10 @@
 ## 4.5 Evaluation
 ## 4.6 Project
 
-## Week 5-7
-### ML Project 1: Fraud Detection
-### ML Project 2: Churn Prediction
-### ML Project 3: Customer Segmentation
+## Week 5-8
+### ML Project 1: Churn Prediction
+### ML Project 2: Customer Segmentation
+Extra topics covered in the ML Projects section:
+#### Bayesian Optimization
+#### Experiment Tracking
+#### Deployment
